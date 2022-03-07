@@ -1,0 +1,47 @@
+.search {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.input {
+    width: 300px;
+    color: blue;
+}
+
+.main {
+    width: 1200px;
+    margin: auto;
+}
+
+.block {
+    width: 1100px;
+    margin: auto;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-between;
+}
+
+.card {
+    width: 350px;
+}
+
+.image {
+    width: 300px;
+    height: 300px;
+}
+
+.button {
+    margin-left: 200px;
+    cursor: pointer;
+    width: 100px;
+    height: 30px;
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+}
+
+.button:hover {
+    color: yellow;
+}
+
+
